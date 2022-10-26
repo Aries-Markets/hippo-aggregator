@@ -8,6 +8,6 @@ rev = 'ba5fa41f82bfe3d4e314d41c39fca77131e9f208'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
-aux = '_'
+aux = '0x8b7311d78d47e37d09435b8dc37c14afd977c5cfa74f974d45f0258d986eef53'
 
 
