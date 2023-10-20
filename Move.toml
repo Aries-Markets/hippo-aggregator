@@ -10,9 +10,9 @@ Liquidswap = { local = "./interface/pontem-Liquidswap" }
 #ditto-staking = { local = "./interface/ditto-research" }
 #tortuga = { local = "./interface/tortuga" }
 #Aptoswap = { local = "./interface/aptoswap" }
-aux = { local = "./interface/aux"}
+aux = { local = "./interface/aux" }
 
 [addresses]
-hippo_aggregator = "89576037b3cc0b89645ea393a47787bb348272c76d6941c574b053672b848039"
+hippo_aggregator = "fa942ca4629106e57cb8fb1837e6575ae6191dd08b3abb37cc95164ba8686539"
 poster = "0x12"
 poster_2 = "0x13"
