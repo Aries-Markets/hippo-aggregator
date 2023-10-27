@@ -13,6 +13,6 @@ Liquidswap = { local = "./interface/pontem-Liquidswap" }
 aux = { local = "./interface/aux" }
 
 [addresses]
-hippo_aggregator = "fa942ca4629106e57cb8fb1837e6575ae6191dd08b3abb37cc95164ba8686539"
+hippo_aggregator = "890812a6bbe27dd59188ade3bbdbe40a544e6e104319b7ebc6617d3eb947ac07"
 poster = "0x12"
 poster_2 = "0x13"
