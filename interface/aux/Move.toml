@@ -8,4 +8,4 @@ rev = 'aptos-cli-v0.3.9'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
-aux = '0xbd35135844473187163ca197ca93b2ab014370587bb0ed3befff9e902d6bb541'
+aux = '0x8b7311d78d47e37d09435b8dc37c14afd977c5cfa74f974d45f0258d986eef53'
